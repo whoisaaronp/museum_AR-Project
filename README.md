@@ -2,14 +2,14 @@
 Creating a museum AR experience like no other!
 
 ## Student Team
-Aaron Paterson
-Cadence Watson
-Cindy Mena
-Heni Manavadariya
-Jin Chang
+Aaron Paterson,
+Cadence Watson,
+Cindy Mena,
+Heni Manavadariya,
+Jin Chang,
 
 ## Professors
-John Bennett
+John Bennett,
 Marco De Luca
 
 
