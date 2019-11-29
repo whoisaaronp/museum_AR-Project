@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden
+{
+	display: none;
+}
+
+body
+{
+	font-family: Helvetica;
+}
+
+h1
+{
+	font-size: 24px;
+}
+
+#container
+{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+img
+{
+	max-width: 100%;
+}
