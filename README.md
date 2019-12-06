@@ -6,7 +6,7 @@ Aaron Paterson,
 Cadence Watson,
 Cindy Mena,
 Heni Manavadariya,
-Jin Chang,
+Jin Chang
 
 ## Professors
 John Bennett,
